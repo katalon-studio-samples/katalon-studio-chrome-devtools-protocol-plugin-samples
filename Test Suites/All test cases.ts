@@ -22,4 +22,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Print PDF</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>35b30436-568b-4bca-9eb7-902081075288</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Intercept request</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
