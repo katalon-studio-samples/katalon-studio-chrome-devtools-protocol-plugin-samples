@@ -24,3 +24,7 @@ debug.log
 test.pdf
 
 screenshot.png
+
+.idea
+
+*.html
