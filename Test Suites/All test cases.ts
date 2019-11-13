@@ -28,4 +28,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Intercept request</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>e7b5490a-c4e6-4c8d-9306-8c46b38b09d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lighthouse metrics</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
