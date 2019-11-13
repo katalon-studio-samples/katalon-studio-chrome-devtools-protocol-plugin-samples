@@ -47,3 +47,5 @@ WebUI.waitForElementVisible(findTestObject('Page_Wikipedia the free encyclopedia
 WebUI.click(findTestObject('Page_Wikipedia the free encyclopedia/Select Katalon'))
 
 WebUI.waitForPageLoad(10)
+
+WebUI.closeBrowser()
